@@ -1,0 +1,50 @@
+body {
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+}
+h2 {
+    font-family: serif;
+}
+.single-product-container {
+    height: 50em;
+}
+.product-title h1{
+    margin-bottom:0px;
+}
+.product-title p{
+    margin-bottom:0px;
+}
+.coming-soon {
+    color: gray;
+}
+.info-purchace-container{
+    margin-left: 400px;
+}
+.info-purchace{
+    float: left;
+    margin: 10px;
+}
+.photatos {
+    width: 100%;
+    max-width:  750px;;
+    height: auto;
+}
+.dark-container{
+    background-color: black;
+    height: 50em;
+}
+.dark-container .product-title h1{
+    color: white;
+}
+.product-info-short {
+    color: white;
+}
+.footer {
+    text-align: left;
+    color: gray;
+}
+.footer hr {
+    margin: 0px;
+}
